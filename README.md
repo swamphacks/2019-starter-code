@@ -10,7 +10,7 @@ Recommended starter code:
 
 More advanced templates: 
 
-[Node + Express boilerplate](https://github.com/CalamariDude/express-starter)
+[extremely barebones Node + Express boilerplate](https://github.com/CalamariDude/express-starter)
 
 [More complete Nodejs + express + common company api](https://github.com/sahat/hackathon-starter)
 
